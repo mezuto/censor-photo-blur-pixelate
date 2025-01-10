@@ -1,3 +1,4 @@
+Censor photo (blur, pixelate) 
 # censor-photo-blur-pixelate
  Censor photo (blur, pixelate) 
 
