@@ -39,7 +39,7 @@ A privacy-focused image censoring tool that helps you protect sensitive informat
 
 ```bash
 # Clone the repository
-git clone https://github.com/matetools/censor-photo.git
+git clone https://github.com/mezuto/censor-photo.git
 
 # Navigate to project directory
 cd censor-photo
@@ -137,4 +137,4 @@ For bugs, feature requests, or questions, please [open an issue]
 
 Made with ❤️ for privacy
 
-Demo: https://mate.tools/censor-photo-blur-pixelate
+Demo: https://mezuto.com/censor-photo-blur-pixelate
